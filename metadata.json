@@ -1,0 +1,6 @@
+{
+  "name": "داشبورد مارکتینگ تپسی دکتر | TPDR Marketing Intelligence",
+  "description": "داشبورد هوشمند و تعاملی تحلیل کمپین‌ها، سفارش‌ها، GMV، CAC و بودجه مارکتینگ متصل به گوگل شیت با احراز هویت دومرحله‌ای و تفکیک زمانی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
